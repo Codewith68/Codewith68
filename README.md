@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack  
 - **Languages:** C++, JavaScript,typescript
 - **Frontend:** React, Tailwind CSS,next.js
-- **Backend:** Node.js, Express.js,netx.js
+- **Backend:** Node.js, Express.js,next.js
 - **Database:** MongoDB, MySQL  
 - **Cloud/Tools:** AWS, Git, GitHub, VS Code  
 
