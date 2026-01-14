@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi 👋, I'm Subrat<br><br>🎓 B.Tech CSE student | MERN Stack Developer  <br>💡 Interested in   **Backend Development, AI, DSA & Modern Full-Stack Engineering**<br><br>---<br><br>### 🛠 Tech Stack<br>- JavaScript, Node.js, Express<br>- MongoDB, MySQL<br>- React, HTML, CSS<br>- Git, GitHub, AWS <br>- love problem solving (245+) questions  <br><br>---<br><br>### 📌 Currently Working On<br>- MERN stack projects<br>- Backend APIs & MongoDB optimization<br>- DSA for placements<br><br>---<br><br><br>### 🌐 Connect With Me<br>https://www.linkedin.com/in/subratpalei/<br>
+### Hi 👋, I'm Subrat<br><br>🎓 B.Tech CSE student | MERN Stack Developer  <br> Interested in   **Backend Development, AI, DSA & Modern Full-Stack Engineering**<br><br>---<br><br> Tech Stack<br>- JavaScript, Node.js, Express<br>- MongoDB, MySQL<br>- React, HTML, CSS<br>- Git, GitHub, AWS <br>- love problem solving (245+) questions  <br><br>---<br><br>📌 Currently Working On<br>- MERN stack projects<br>- Backend APIs & MongoDB optimization<br>- DSA for placements<br><br>---<br><br><br>### 🌐 Connect With Me<br>https://www.linkedin.com/in/subratpalei/<br>
 
 
 ## 🌐 Socials:
